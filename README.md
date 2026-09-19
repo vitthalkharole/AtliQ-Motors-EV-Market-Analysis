@@ -88,5 +88,15 @@ Power BI Data Model
 DAX Measures
     ↓
 Dashboard
+
+
+## 💼 Business Insights
+
+- **2W EVs dominate** the market, making them a key segment for analysis.
+- **EV adoption varies by state**, so market strategy should be state-specific.
+- **Competition is changing**, especially among 2W manufacturers.
+- **High CAGR does not always mean a large market**; it should be viewed with sales volume and penetration.
+- **2W and 4W require different strategies** due to different market patterns.
+- **High-growth states** can be potential future markets, subject to infrastructure and policy validation.
     ↓
 Business Insights
